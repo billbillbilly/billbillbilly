@@ -22,10 +22,11 @@ My name is **Xiaohao** and I'm coding on a daily basis mostly using **R** and **
 - 🎨 I do generative design with Python and JavaScript sometimes
 - 🎮 I make some funny vedio games using C# with Unity
 
-
+<!--
 <a href="https://github.com/billbillbilly/billbillbilly">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=billbillbilly&hide=C&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <a href="https://github.com/billbillbilly/billbillbilly">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=billbillbilly&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="xiaohao's GitHub Stats" />
 </a>
+-->
