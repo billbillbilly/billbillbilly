@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 My name is **Xiaohao** and I'm coding on a daily basis mostly using **R** and **Python** programming Language
 - 💬 I usually build some methods I used in my research as R packages
 - 😄 The most exciting moment in making an R package is drawing the hexgon logo
-- 💻 I use fastai(pytorch) in Python for my research projects
+- 💻 I use fastai(pytorch)/pix2pix/LLMs in Python for my research projects
 - 🎨 I do generative design with Python and JavaScript sometimes
-- 🎮 I make some funny vedio games using C# with Unity
+- 🎮 I make some funny video games using C# with Unity
 
 <!--
 <a href="https://github.com/billbillbilly/billbillbilly">
