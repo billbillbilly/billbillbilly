@@ -16,11 +16,12 @@ Here are some ideas to get you started:
 [![](https://views.whatilearened.today/views/github/billbillbilly/billbillbilly.svg)](http://github.com/billbillbilly/billbillbilly)
 
 My name is **Xiaohao** and I'm coding on a daily basis mostly using **R** and **Python** programming Language
-- 💬 I usually build some methods I used in my research as R packages
+- 💬 I usually make some methods I used in my research as R packages
 - 😄 The most exciting moment in making an R package is drawing the hexgon logo
 - 💻 I use fastai(pytorch)/pix2pix/LLMs in Python for my research projects
 - 🎨 I do generative design with Python and JavaScript sometimes
-- 🎮 I make some funny video games using C# with Unity
+- 🎮 I am big fan of Nintendo 3DS ans Switch. I also make some funny video games using C# with Unity
+- ⚡ I am recently playing Black Myth: Wukong and Pokemon Sun
 
 <!--
 <a href="https://github.com/billbillbilly/billbillbilly">
