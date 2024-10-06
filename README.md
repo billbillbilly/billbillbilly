@@ -20,8 +20,8 @@ My name is **Xiaohao** and I'm coding on a daily basis mostly using **R** and **
 - 😄 The most exciting moment in making an R package is drawing the hexgon logo
 - 💻 I use fastai(pytorch)/pix2pix/LLMs in Python for my research projects
 - 🎨 I do generative design with Python and JavaScript sometimes
-- 🎮 I am big fan of Nintendo 3DS ans Switch. I also make some funny video games using C# with Unity
-- ⚡ I am recently playing Black Myth: Wukong and Pokemon Sun
+- 🎮 I am big fan of Nintendo game console (Gameboy Advance, 3DS, and Switch). I also made some funny video games using C# with Unity
+- ⚡ I am recently playing Black Myth: Wukong and Pokemon hack ROMs
 
 <!--
 <a href="https://github.com/billbillbilly/billbillbilly">
