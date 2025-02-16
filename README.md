@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 [![](https://views.whatilearened.today/views/github/billbillbilly/billbillbilly.svg)](http://github.com/billbillbilly/billbillbilly)
 
-My name is **Xiaohao** and I'm coding on a daily basis mostly using **R** and **Python** programming Language
+My name is **Xiaohao** and I'm coding on a daily basis mostly using **Python** and **Javascript** and **R**
 - 💬 I usually make some methods I used in my research as R packages
 - 😄 The most exciting moment in making an R package is drawing the hexgon logo
 - 💻 I use fastai(pytorch)/pix2pix/LLMs in Python for my research projects
@@ -27,7 +27,7 @@ My name is **Xiaohao** and I'm coding on a daily basis mostly using **R** and **
 <a href="https://github.com/billbillbilly/billbillbilly">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=billbillbilly&hide=C&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-<a href="https://github.com/billbillbilly/billbillbilly">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=billbillbilly&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="xiaohao's GitHub Stats" />
+<a href="https://github.com/billbillbilly/billbillbilly">          
+  <img align="center" src="https://github-readme-stats.vercel.app/api?              username=billbillbilly&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="xiaohao's GitHub Stats" />
 </a>
 -->
