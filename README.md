@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 -->
 
 [![](https://views.whatilearened.today/views/github/billbillbilly/billbillbilly.svg)](http://github.com/billbillbilly/billbillbilly)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=billbillbilly.billbillbilly)
 
 My name is **Xiaohao** and I'm coding on a daily basis, mostly using **Python** and **Javascript** and **R**
 - 💬 I usually make some methods I used in my research as R packages
