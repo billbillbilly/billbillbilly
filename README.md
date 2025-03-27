@@ -39,4 +39,3 @@ Software development:
 - [streetscape](https://github.com/land-info-lab/streetscape)(CRAN)
 - [viewscape](https://github.com/land-info-lab/viewscape)(CRAN)
 - [dsmSearch](https://github.com/billbillbilly/dsmSearch)(CRAN)
-- 
