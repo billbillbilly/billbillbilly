@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <!--![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=billbillbilly.billbillbilly)-->
 
 My name is **Xiaohao** and I'm coding on a daily basis, mostly using **Python** and **Javascript** and **R**
-- 💬 I usually make some methods I used in my research as R packages
+- 💬 I usually make some methods I used in my research as R or Python packages
 - 😄 The most exciting moment in making a package is drawing the logo
 - 💻 I use fastai(pytorch)/pix2pix/LLMs for my research projects
 - 🎨 I do generative design with Python and JavaScript sometimes
