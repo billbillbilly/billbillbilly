@@ -23,7 +23,7 @@ My name is **Xiaohao** and I'm coding on a daily basis, mostly using **Python** 
 - 💻 I use fastai(pytorch)/pix2pix/LLMs for my research projects
 - 🎨 I do generative design with Python and JavaScript sometimes
 - 🎮 I am a big fan of the Nintendo game console (Gameboy Advance, 3DS, and Switch). I also made some funny video games using C# with Unity
-- ⚡ I am recently playing ... well, nothing...
+- ⚡ I am recently playing RISK OF RAIN 2 on Switch
 
 <!--
 <a href="https://github.com/billbillbilly/billbillbilly">
