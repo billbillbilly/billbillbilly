@@ -35,7 +35,7 @@ My name is **Xiaohao** and I'm coding on a daily basis, mostly using **Python** 
 -->
 
 Software development:
-- [urban-worm](https://github.com/billbillbilly/urbanworm)(PyPi)
-- [streetscape](https://github.com/land-info-lab/streetscape)(CRAN)
-- [viewscape](https://github.com/land-info-lab/viewscape)(CRAN)
-- [dsmSearch](https://github.com/billbillbilly/dsmSearch)(CRAN)
+- [urban-worm](https://github.com/billbillbilly/urbanworm)
+- [streetscape](https://github.com/land-info-lab/streetscape)
+- [viewscape](https://github.com/land-info-lab/viewscape)
+- [dsmSearch](https://github.com/billbillbilly/dsmSearch)
