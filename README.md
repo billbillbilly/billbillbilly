@@ -35,7 +35,7 @@ My name is **Xiaohao** and I'm coding on a daily basis, mostly using **Python** 
 -->
 
 Software development:
-- [urban-worm](https://github.com/billbillbilly/urbanworm) (python)
+- [urban-worm](https://github.com/billbillbilly/urbanworm) (python): Integrates remote sensing imagery, street view data, and multimodal models to assess environments and urban units
 - [streetscape](https://github.com/land-info-lab/streetscape) (R)
 - [viewscape](https://github.com/land-info-lab/viewscape) (R)
 - [dsmSearch](https://github.com/billbillbilly/dsmSearch) (R)
