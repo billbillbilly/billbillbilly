@@ -36,7 +36,8 @@ My name is **Xiaohao** and I'm coding on a daily basis, mostly using **Python** 
 
 Software development:
 - [urban-worm](https://github.com/billbillbilly/urbanworm) (python): Integrates remote sensing imagery, street view data, and multimodal models to assess environments and urban units
-- [streetscape](https://github.com/land-info-lab/streetscape) (R)
-- [viewscape](https://github.com/land-info-lab/viewscape) (R)
-- [dsmSearch](https://github.com/billbillbilly/dsmSearch) (R)
-- [gloBFPr](https://github.com/billbillbilly/gloBFPr) (R)
+- [streetscape](https://github.com/land-info-lab/streetscape) (R): Search and download street view imagery and to extract, quantify, and visualize visual features
+- [viewscape](https://github.com/land-info-lab/viewscape) (R): Landscape spatial analysis based on the viewshed within the R environment
+- [dsmSearch](https://github.com/billbillbilly/dsmSearch) (R): Retrieves high-resolution Digital Surface Models (DSM) and Light Detection and Ranging (LiDAR) data
+- [gloBFPr](https://github.com/billbillbilly/gloBFPr) (R): Provides tools to access, search, and download global 3D building footprint datasets (3D-GloBFP). The package includes functions to retrieve metadata, filter by bounding box, and download building height tiles.
+- [greenSD](https://github.com/billbillbilly/greenSD) (R): Provides tools to access and analyze multi-band greenspace seasonality data cubes (available for 1,028 major global cities) and global NDVI data from the ESA WorldCover 10m Annual Composites Dataset
