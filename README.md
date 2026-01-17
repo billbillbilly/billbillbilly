@@ -35,10 +35,10 @@ My name is **Xiaohao** and I'm coding on a daily basis, mostly using **Python** 
 -->
 
 Software development:
-- [urban-worm](https://github.com/billbillbilly/urbanworm) (python): Integrates remote sensing imagery, street view data, and multimodal models to assess environments and urban units
+- [urban-worm](https://github.com/billbillbilly/urbanworm) (python): A user-friendly high-level interface that is designed for adding rich and meaningful captions for crowd-sourced data with geotags using multimodal models.
 - [streetscape](https://github.com/billbillbilly/streetscape) (R): Search and download street view imagery and to extract, quantify, and visualize visual features
 - [viewscape](https://github.com/billbillbilly/viewscape) (R): Landscape spatial analysis based on the viewshed within the R environment
 - [dsmSearch](https://github.com/billbillbilly/dsmSearch) (R): Retrieves high-resolution Digital Surface Models (DSM) and Light Detection and Ranging (LiDAR) data
 - [gloBFPr](https://github.com/billbillbilly/gloBFPr) (R): Provides tools to access, search, and download global 3D building footprint datasets (3D-GloBFP). The package includes functions to retrieve metadata, filter by bounding box, and download building height tiles.
 - [greenSD](https://github.com/billbillbilly/greenSD) (R): Provides tools to access and analyze multi-band greenspace seasonality data cubes (available for 1,028 major global cities) and global NDVI data from the ESA WorldCover 10m Annual Composites Dataset.
-- [quickPWCR](https://github.com/billbillbilly/quickPWCR) (R): Constructing large pairwised comparisons and rating them using Elo rating system with supporting parallel processing. The method of random sample pairs is based on Reservoir Sampling.
+- [quickPWCR](https://github.com/billbillbilly/quickPWCR) (R): Constructing large pair-wise comparisons and rating them using the Elo rating system with supporting parallel processing. The method of random sample pairs is based on Reservoir Sampling.
