@@ -23,7 +23,7 @@ My name is **Xiaohao** and I'm coding on a daily basis, mostly using **Python** 
 - 💻 I use pytorch/LLMs/VLMs for my research projects
 - 🎨 I do generative design with Python and JavaScript sometimes. I also made some funny video games using C# with Unity
 - 🎮 I am a big fan of the Nintendo game console (Gameboy Advance, 3DS, and Switch). 
-- ⚡ I like playing Pokémon, Starcraft 2, and Yu-Gi-Oh! But I am playing Mario Kart recently LOL
+- ⚡ I like playing Pokémon, Starcraft 2, and Yu-Gi-Oh! I am playing Mario Kart everyday LOL
 
 <!--
 <a href="https://github.com/billbillbilly/billbillbilly">
